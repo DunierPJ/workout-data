@@ -254,14 +254,6 @@
 				"descanso": "30s"
 			},
 			{
-				"id": 38,
-				"treino": "B",
-				"exercicio": "Cadeira Adutora",
-				"repeticao": "12",
-				"carga": "25kg",
-				"descanso": "30s"
-			},
-			{
 				"id": 39,
 				"treino": "B",
 				"exercicio": "Leg Médio",
