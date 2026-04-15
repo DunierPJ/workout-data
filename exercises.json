@@ -1,58 +1,18 @@
 {
-	"version": 3,
+	"version": 4,
 	"updated_at": "2026-03-26",
 	"data": {
-		"A": [
+		"A_Empurrar": [
 			{
 				"id": 1,
 				"treino": "A",
 				"exercicio": "Supino Reto com Halteres",
 				"repeticao": "8",
 				"carga": "80%1RM",
-				"descanso": "2m"
+				"descanso": "90s"
 			},
 			{
 				"id": 2,
-				"treino": "A",
-				"exercicio": "Elevação Frontal com Halteres",
-				"repeticao": "10",
-				"carga": "70%1RM",
-				"descanso": "2m"
-			},
-			{
-				"id": 3,
-				"treino": "A",
-				"exercicio": "Rosca Direta com Barra",
-				"repeticao": "8",
-				"carga": "80%1RM",
-				"descanso": "2m"
-			},
-			{
-				"id": 4,
-				"treino": "A",
-				"exercicio": "Crucifixo Inclinado com Halteres",
-				"repeticao": "10",
-				"carga": "70%1RM",
-				"descanso": "2m"
-			},
-			{
-				"id": 5,
-				"treino": "A",
-				"exercicio": "Desenvolvimento Militar com Barra",
-				"repeticao": "8",
-				"carga": "80%1RM",
-				"descanso": "2m"
-			},
-			{
-				"id": 6,
-				"treino": "A",
-				"exercicio": "Rosca Martelo com Halteres",
-				"repeticao": "10",
-				"carga": "70%1RM",
-				"descanso": "2m"
-			},
-			{
-				"id": 23,
 				"treino": "A",
 				"exercicio": "Supino 45º (inclinado)",
 				"repeticao": "15-12",
@@ -60,23 +20,47 @@
 				"descanso": "60s"
 			},
 			{
-				"id": 24,
+				"id": 3,
+				"treino": "A",
+				"exercicio": "Desenvolvimento Militar com Barra",
+				"repeticao": "8",
+				"carga": "80%1RM",
+				"descanso": "90s"
+			},
+			{
+				"id": 4,
+				"treino": "A",
+				"exercicio": "Crucifixo Inclinado com Halteres",
+				"repeticao": "10",
+				"carga": "70%1RM",
+				"descanso": "60s"
+			},
+			{
+				"id": 5,
+				"treino": "A",
+				"exercicio": "Elevação Lateral",
+				"repeticao": "12-8",
+				"carga": "5kg",
+				"descanso": "45s"
+			},
+			{
+				"id": 6,
 				"treino": "A",
 				"exercicio": "Voador",
 				"repeticao": "Falha",
 				"carga": "25kg",
-				"descanso": "30s"
+				"descanso": "45s"
 			},
 			{
-				"id": 25,
+				"id": 7,
 				"treino": "A",
-				"exercicio": "Crucifixo",
+				"exercicio": "Elevação Frontal com Halteres",
 				"repeticao": "10",
-				"carga": "20kg",
-				"descanso": "3m"
+				"carga": "70%1RM",
+				"descanso": "45s"
 			},
 			{
-				"id": 26,
+				"id": 8,
 				"treino": "A",
 				"exercicio": "Triceps Polia Unilateral",
 				"repeticao": "10",
@@ -84,15 +68,15 @@
 				"descanso": "30s"
 			},
 			{
-				"id": 27,
+				"id": 9,
 				"treino": "A",
 				"exercicio": "Triceps no Triangulo",
 				"repeticao": "15-12",
 				"carga": "20kg",
-				"descanso": "30s"
+				"descanso": "45s"
 			},
 			{
-				"id": 28,
+				"id": 10,
 				"treino": "A",
 				"exercicio": "Triceps Corda",
 				"repeticao": "Falha",
@@ -100,23 +84,7 @@
 				"descanso": "30s"
 			},
 			{
-				"id": 29,
-				"treino": "A",
-				"exercicio": "Panurrilha no Leg 180º",
-				"repeticao": "12",
-				"carga": "20kg",
-				"descanso": "30s"
-			},
-			{
-				"id": 30,
-				"treino": "A",
-				"exercicio": "Panturrilha Livre Unilateral",
-				"repeticao": "12",
-				"carga": "Livre",
-				"descanso": "30s"
-			},
-			{
-				"id": 31,
+				"id": 11,
 				"treino": "A",
 				"exercicio": "Abdominal Obliquo",
 				"repeticao": "12",
@@ -124,215 +92,167 @@
 				"descanso": "30s"
 			}
 		],
-		"B": [
-		{
-			"id": 14,
-			"treino": "B",
-			"exercicio": "Goblet Squat",
-			"repeticao": "15",
-			"carga": "40%1RM",
-			"descanso": "45s"
-		},
-		{
-			"id": 7,
-			"treino": "B",
-			"exercicio": "Agachamento Livre",
-			"repeticao": "6",
-			"carga": "80%1RM",
-			"descanso": "90s"
-		},
-		{
-			"id": 8,
-			"treino": "B",
-			"exercicio": "Leg Press 45 graus",
-			"repeticao": "8",
-			"carga": "70%1RM",
-			"descanso": "60s"
-		},
-		{
-			"id": 39,
-			"treino": "B",
-			"exercicio": "Leg 180° bilateral",
-			"repeticao": "10-12",
-			"carga": "60kg",
-			"descanso": "60s"
-		},
-		{
-			"id": 11,
-			"treino": "B",
-			"exercicio": "Mesa Flexora",
-			"repeticao": "12",
-			"carga": "50%1RM",
-			"descanso": "45s"
-		},
-		{
-			"id": 16,
-			"treino": "B",
-			"exercicio": "Cadeira Flexora Isométrica",
-			"repeticao": "12",
-			"carga": "80%1RM",
-			"descanso": "45s"
-		},
-		{
-			"id": 15,
-			"treino": "B",
-			"exercicio": "Elevação de Panturrilha em Pé",
-			"repeticao": "15",
-			"carga": "P/C",
-			"descanso": "30s"
-		},
-		{
-			"id": 32,
-			"treino": "B",
-			"exercicio": "Remada Aparelho",
-			"repeticao": "10",
-			"carga": "20kg",
-			"descanso": "60s"
-		},
-		{
-			"id": 33,
-			"treino": "B",
-			"exercicio": "Pull Over",
-			"repeticao": "12",
-			"carga": "25kg",
-			"descanso": "45s"
-		},
-		{
-			"id": 34,
-			"treino": "B",
-			"exercicio": "Puxada na Frente + Supinada",
-			"repeticao": "12",
-			"carga": "25kg",
-			"descanso": "60s"
-		},
-		{
-			"id": 35,
-			"treino": "B",
-			"exercicio": "Rosca Bíceps Direta + Barra",
-			"repeticao": "10",
-			"carga": "20kg",
-			"descanso": "45s"
-		},
-		{
-			"id": 36,
-			"treino": "B",
-			"exercicio": "Rosca Bíceps Direta Cross",
-			"repeticao": "8 C-8",
-			"carga": "5kg",
-			"descanso": "30s"
-		},
-		{
-			"id": 37,
-			"treino": "B",
-			"exercicio": "Rosca Bíceps Robô",
-			"repeticao": "Falha",
-			"carga": "25kg",
-			"descanso": "30s"
-		},
-		{
-			"id": 41,
-			"treino": "B",
-			"exercicio": "Abdominal Supra",
-			"repeticao": "12",
-			"carga": "Livre",
-			"descanso": "30s"
-		}
-	],
-		"C": [
+		"B_Pernas": [
 			{
-				"id": 17,
-				"treino": "C",
-				"exercicio": "Rosca Inversa com Barra",
-				"repeticao": "8",
+				"id": 12,
+				"treino": "B",
+				"exercicio": "Goblet Squat",
+				"repeticao": "15",
+				"carga": "40%1RM",
+				"descanso": "45s"
+			},
+			{
+				"id": 13,
+				"treino": "B",
+				"exercicio": "Agachamento Livre",
+				"repeticao": "6",
 				"carga": "80%1RM",
 				"descanso": "2m"
 			},
 			{
+				"id": 14,
+				"treino": "B",
+				"exercicio": "Leg Press 45 graus",
+				"repeticao": "8",
+				"carga": "70%1RM",
+				"descanso": "90s"
+			},
+			{
+				"id": 15,
+				"treino": "B",
+				"exercicio": "Leg 180° bilateral",
+				"repeticao": "10-12",
+				"carga": "60kg",
+				"descanso": "60s"
+			},
+			{
+				"id": 16,
+				"treino": "B",
+				"exercicio": "Mesa Flexora",
+				"repeticao": "12",
+				"carga": "50%1RM",
+				"descanso": "45s"
+			},
+			{
+				"id": 17,
+				"treino": "B",
+				"exercicio": "Cadeira Flexora Isométrica",
+				"repeticao": "12",
+				"carga": "80%1RM",
+				"descanso": "45s"
+			},
+			{
 				"id": 18,
+				"treino": "B",
+				"exercicio": "Elevação de Panturrilha em Pé",
+				"repeticao": "15",
+				"carga": "P/C",
+				"descanso": "30s"
+			},
+			{
+				"id": 19,
+				"treino": "B",
+				"exercicio": "Panurrilha no Leg 180º",
+				"repeticao": "12",
+				"carga": "20kg",
+				"descanso": "30s"
+			},
+			{
+				"id": 20,
+				"treino": "B",
+				"exercicio": "Abdominal Supra",
+				"repeticao": "12",
+				"carga": "Livre",
+				"descanso": "30s"
+			}
+		],
+		"C_Puxar": [
+			{
+				"id": 21,
 				"treino": "C",
 				"exercicio": "Remada Curvada com Barra",
 				"repeticao": "10",
 				"carga": "70%1RM",
-				"descanso": "2m"
-			},
-			{
-				"id": 19,
-				"treino": "C",
-				"exercicio": "Tríceps Testa com Halteres",
-				"repeticao": "8",
-				"carga": "80%1RM",
-				"descanso": "2m"
-			},
-			{
-				"id": 20,
-				"treino": "C",
-				"exercicio": "Puxada Alta na Polia",
-				"repeticao": "10",
-				"carga": "70%1RM",
-				"descanso": "2m"
-			},
-			{
-				"id": 21,
-				"treino": "C",
-				"exercicio": "Tríceps Corda na Polia Alta",
-				"repeticao": "8",
-				"carga": "80%1RM",
-				"descanso": "2m"
+				"descanso": "90s"
 			},
 			{
 				"id": 22,
 				"treino": "C",
+				"exercicio": "Puxada na Frente + Supinada",
+				"repeticao": "12",
+				"carga": "25kg",
+				"descanso": "60s"
+			},
+			{
+				"id": 23,
+				"treino": "C",
 				"exercicio": "Remada Unilateral com Halter",
 				"repeticao": "10",
 				"carga": "70%1RM",
-				"descanso": "2m"
+				"descanso": "60s"
 			},
 			{
-				"id": 42,
+				"id": 24,
 				"treino": "C",
-				"exercicio": "Elevação Lateral",
-				"repeticao": "12-8",
+				"exercicio": "Remada Aparelho",
+				"repeticao": "10",
+				"carga": "20kg",
+				"descanso": "60s"
+			},
+			{
+				"id": 25,
+				"treino": "C",
+				"exercicio": "Pull Over",
+				"repeticao": "12",
+				"carga": "25kg",
+				"descanso": "45s"
+			},
+			{
+				"id": 26,
+				"treino": "C",
+				"exercicio": "Remada Alta + Encolhimento no Cross",
+				"repeticao": "12",
+				"carga": "25kg",
+				"descanso": "45s"
+			},
+			{
+				"id": 27,
+				"treino": "C",
+				"exercicio": "Rosca Direta com Barra",
+				"repeticao": "8",
+				"carga": "80%1RM",
+				"descanso": "60s"
+			},
+			{
+				"id": 28,
+				"treino": "C",
+				"exercicio": "Rosca Martelo com Halteres",
+				"repeticao": "10",
+				"carga": "70%1RM",
+				"descanso": "45s"
+			},
+			{
+				"id": 29,
+				"treino": "C",
+				"exercicio": "Rosca Bíceps Direta Cross",
+				"repeticao": "8 C-8",
 				"carga": "5kg",
 				"descanso": "30s"
 			},
 			{
-				"id": 43,
+				"id": 30,
 				"treino": "C",
-				"exercicio": "Elevação Frontal Cross",
-				"repeticao": "12",
-				"carga": "5kg",
-				"descanso": "30s"
-			},
-			{
-				"id": 44,
-				"treino": "C",
-				"exercicio": "Desenvolvimento Aparelho + Halter",
-				"repeticao": "10",
-				"carga": "8kg",
-				"descanso": "30s"
-			},
-			{
-				"id": 45,
-				"treino": "C",
-				"exercicio": "Remada Alta + Encolhimento  no Cross",
-				"repeticao": "12",
-				"carga": "25kg",
+				"exercicio": "Rosca Inversa com Barra",
+				"repeticao": "8",
+				"carga": "80%1RM",
 				"descanso": "60s"
 			},
 			{
-				"id": 46,
+				"id": 31,
 				"treino": "C",
-				"exercicio": "Mesa Flexora",
-				"repeticao": "10",
+				"exercicio": "Rosca Bíceps Robô",
+				"repeticao": "Falha",
 				"carga": "25kg",
-				"descanso": "60s"
-			},
-			{
-				"id": 47,
-				"treino": "C",
-				"exercicio": "Leg Press 90º",
-				"repeticao": "15",
-				"carga": "30kg",
 				"descanso": "30s"
 			}
 		]
