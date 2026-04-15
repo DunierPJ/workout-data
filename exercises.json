@@ -2,7 +2,7 @@
 	"version": 4,
 	"updated_at": "2026-03-26",
 	"data": {
-		"A_Empurrar": [
+		"A": [
 			{
 				"id": 1,
 				"treino": "A",
@@ -92,7 +92,7 @@
 				"descanso": "30s"
 			}
 		],
-		"B_Pernas": [
+		"B": [
 			{
 				"id": 12,
 				"treino": "B",
@@ -166,7 +166,7 @@
 				"descanso": "30s"
 			}
 		],
-		"C_Puxar": [
+		"C": [
 			{
 				"id": 21,
 				"treino": "C",
