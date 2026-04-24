@@ -1,6 +1,6 @@
 {
-	"version": 6,
-	"updated_at": "2026-04-17",
+	"version": 7,
+	"updated_at": "2026-04-24",
 	"data": {
 		"A": [
 			{
@@ -138,7 +138,7 @@
 			{
 				"id": 17,
 				"treino": "C",
-				"exercicio": "Pull Over",
+				"exercicio": "Pull Down",
 				"repeticao": "10-12",
 				"carga": "60-70%1RM",
 				"descanso": "60s"
@@ -154,7 +154,7 @@
 			{
 				"id": 19,
 				"treino": "C",
-				"exercicio": "Face Pull ou Crucifixo Inverso",
+				"exercicio": "Crucifixo Inverso",
 				"repeticao": "12-15",
 				"carga": "60-70%1RM",
 				"descanso": "45s"
