@@ -152,7 +152,15 @@
 				"descanso": "60s"
 			},
 			{
-				"id": 19,
+			    "id": 19,
+		        "treino": "C",
+			    "exercicio": "Hiperextensão Lombar no Banco Romano",
+			    "repeticao": "12-15",
+			    "carga": "P/C",
+			    "descanso": "45-60s"
+			}
+			{
+				"id": 20,
 				"treino": "C",
 				"exercicio": "Crucifixo Inverso",
 				"repeticao": "12-15",
@@ -160,7 +168,7 @@
 				"descanso": "45s"
 			},
 			{
-				"id": 20,
+				"id": 21,
 				"treino": "C",
 				"exercicio": "Rosca Direta com Barra",
 				"repeticao": "8-10",
@@ -168,7 +176,7 @@
 				"descanso": "60s"
 			},
 			{
-				"id": 21,
+				"id": 22,
 				"treino": "C",
 				"exercicio": "Rosca Martelo",
 				"repeticao": "10-12",
