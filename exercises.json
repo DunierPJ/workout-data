@@ -1,6 +1,6 @@
 {
 	"version": 8,
-	"updated_at": "2026-05-24",
+	"updated_at": "2026-05-25",
 	"data": {
 		"A": [
 			{
@@ -158,7 +158,7 @@
 			    "repeticao": "12-15",
 			    "carga": "P/C",
 			    "descanso": "45-60s"
-			}
+			},
 			{
 				"id": 20,
 				"treino": "C",
