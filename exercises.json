@@ -1,6 +1,6 @@
 {
-	"version": 9,
-	"updated_at": "2026-06-07",
+	"version": 10,
+	"updated_at": "2026-07-24",
 	"data": {
 		"A": [
 			{
@@ -162,13 +162,21 @@
 			{
 				"id": 20,
 				"treino": "C",
+				"exercicio": "Rack Pull",
+				"repeticao": "6-8",
+				"carga": "75-80%1RM",
+				"descanso": "2m"
+			},			
+			{
+				"id": 21,
+				"treino": "C",
 				"exercicio": "Rosca Direta com Barra",
 				"repeticao": "8-10",
 				"carga": "70-80%1RM",
 				"descanso": "60s"
 			},
 			{
-				"id": 21,
+				"id": 22,
 				"treino": "C",
 				"exercicio": "Rosca Martelo",
 				"repeticao": "10-12",
