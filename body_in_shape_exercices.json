@@ -1,0 +1,42 @@
+{
+  "version": 1.1,
+  "updated_at": "2026-09-07",
+  "treinos": {
+    "treino A": {
+      "grupos_musculares": [ "peito", "deltoide", "trapézio", "tríceps" ],
+      "exercicios": [
+        { "id": 1, "nome": "Supino máquina", "descanso_padrao": 120, "series_padrao": 3, "repeticoes_padrao": 10, "peso_sugerido": 20.0 },
+        { "id": 2, "nome": "Supino inclinado halter", "descanso_padrao": 120, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 22.0 },
+        { "id": 3, "nome": "Crucifixo máquina", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 50.0 },
+        { "id": 4, "nome": "Desenvolvimento máquina", "descanso_padrao": 90, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 20.0 },
+        { "id": 5, "nome": "Elevação lateral polia baixa", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 15, "peso_sugerido": 10.0 },
+        { "id": 6, "nome": "Encolhimento de ombros", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 20.0 },
+        { "id": 7, "nome": "Tríceps corda", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 40.0 },
+        { "id": 8, "nome": "Tríceps coice halter", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 8.0 }
+      ]
+    },
+    "treino B": {
+      "grupos_musculares": [ "pernas", "glúteos", "panturrilhas" ],
+      "exercicios": [
+        { "id": 9,  "nome": "Agachamento livre", "descanso_padrao": 120, "series_padrao": 4, "repeticoes_padrao": 10, "peso_sugerido": 60.0 },
+        { "id": 10, "nome": "Leg press 45", "descanso_padrao": 120, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 120.0 },
+        { "id": 11, "nome": "Cadeira extensora", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 40.0 },
+        { "id": 12, "nome": "Mesa flexora", "descanso_padrao": 60, "series_padrao": 4, "repeticoes_padrao": 12, "peso_sugerido": 40.0 },
+        { "id": 13, "nome": "Cadeira flexora", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 50.0 },		
+        { "id": 14, "nome": "Gêmeos em pé (panturrilha)", "descanso_padrao": 60, "series_padrao": 4, "repeticoes_padrao": 15, "peso_sugerido": 0.0 }
+      ]
+    },	
+    "treino C": {
+      "grupos_musculares": [ "costas", "bíceps", "antebraços" ],
+      "exercicios": [
+        { "id": 15, "nome": "Puxada alta na polia", "descanso_padrao": 90, "series_padrao": 4, "repeticoes_padrao": 10, "peso_sugerido": 60.0 },
+        { "id": 16, "nome": "Remada baixa triângulo", "descanso_padrao": 90, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 60.0 },
+        { "id": 17, "nome": "Remada unilateral halter", "descanso_padrao": 90, "series_padrao": 3, "repeticoes_padrao": 10, "peso_sugerido": 20.0 },
+        { "id": 18, "nome": "Crucifixo inverso máquina", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 50.0 },
+        { "id": 19, "nome": "Rosca direta com barra W", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 10, "peso_sugerido": 10.0 },
+        { "id": 20, "nome": "Rosca martelo com halteres", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 10, "peso_sugerido": 10.0 },
+        { "id": 21, "nome": "Flexão de punho halter", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 8.0 }
+      ]
+    }		
+  }
+}
