@@ -29,7 +29,7 @@
     "treino C": {
       "grupos_musculares": [ "costas", "bíceps", "antebraços" ],
       "exercicios": [
-        { "id": 15, "nome": "Puxada alta na polia", "descanso_padrao": 90, "series_padrao": 4, "repeticoes_padrao": 10, "peso_sugerido": 60.0 },
+        { "id": 15, "nome": "Puxada alta na polia", "descanso_padrao": 90, "series_padrao": 3, "repeticoes_padrao": 10, "peso_sugerido": 60.0 },
         { "id": 16, "nome": "Remada baixa triângulo", "descanso_padrao": 90, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 60.0 },
         { "id": 17, "nome": "Remada unilateral halter", "descanso_padrao": 90, "series_padrao": 3, "repeticoes_padrao": 10, "peso_sugerido": 20.0 },
         { "id": 18, "nome": "Crucifixo inverso máquina", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 50.0 },
