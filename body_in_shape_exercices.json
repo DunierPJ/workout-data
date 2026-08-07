@@ -18,7 +18,7 @@
     "treino B": {
       "grupos_musculares": [ "pernas", "glúteos", "panturrilhas" ],
       "exercicios": [
-        { "id": 9,  "nome": "Agachamento livre", "descanso_padrao": 120, "series_padrao": 4, "repeticoes_padrao": 10, "peso_sugerido": 60.0 },
+        { "id": 9,  "nome": "Agachamento livre", "descanso_padrao": 120, "series_padrao": 3, "repeticoes_padrao": 10, "peso_sugerido": 60.0 },
         { "id": 10, "nome": "Leg press 45", "descanso_padrao": 120, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 120.0 },
         { "id": 11, "nome": "Cadeira extensora", "descanso_padrao": 60, "series_padrao": 3, "repeticoes_padrao": 12, "peso_sugerido": 40.0 },
         { "id": 12, "nome": "Mesa flexora", "descanso_padrao": 60, "series_padrao": 4, "repeticoes_padrao": 12, "peso_sugerido": 40.0 },
